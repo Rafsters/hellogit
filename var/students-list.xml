@@ -94,7 +94,13 @@
         <github> k4le0</github>
         <group> KrZZIs3011Io</group>
 </student>
-
+<student>
+	<firstname>Rafal</firstname>
+	<lastname>Kwiecien</lastname>
+	<email>kwiecienraf@gmail.com</email>
+	<github>Rafsters</github>
+	<group>KrDZIs3011Io</group>
+</student>
 
 
 </students>
